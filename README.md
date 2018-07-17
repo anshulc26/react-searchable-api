@@ -1,4 +1,4 @@
-This is Rails backend API for https://github.com/jaypandya73/react-searchable react front-end app.
+This is Rails backend API for https://github.com/anshulc26/react-searchable react front-end app.
 
 first Run `bundle install` 
 
